@@ -1,0 +1,5 @@
+title: LG TV apps
+description: Free apps for LG webOS TVs by AbdulBasset Chouman.
+# Data files are published for download, not as pages.
+exclude:
+  - go-to-pray/countries
